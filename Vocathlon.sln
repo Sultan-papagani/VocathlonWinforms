@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocathlon", "Vocathlon\Vocathlon.csproj", "{BACDDA07-E614-488B-A5D0-5FCEC20B5ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACDDA07-E614-488B-A5D0-5FCEC20B5ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACDDA07-E614-488B-A5D0-5FCEC20B5ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACDDA07-E614-488B-A5D0-5FCEC20B5ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACDDA07-E614-488B-A5D0-5FCEC20B5ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8C9CA9-A022-4684-86E1-37822E3E97AD}
+	EndGlobalSection
+EndGlobal

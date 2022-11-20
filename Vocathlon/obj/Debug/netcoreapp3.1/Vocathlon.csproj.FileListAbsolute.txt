@@ -1,0 +1,16 @@
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.exe
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.deps.json
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.runtimeconfig.json
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.runtimeconfig.dev.json
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.dll
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\bin\Debug\netcoreapp3.1\Vocathlon.pdb
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.csproj.AssemblyReference.cache
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.Form1.resources
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.csproj.GenerateResource.cache
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.AssemblyInfoInputs.cache
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.AssemblyInfo.cs
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.csproj.CoreCompileInputs.cache
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.dll
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.pdb
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.genruntimeconfig.cache
+C:\Users\BEN\source\repos\Vocathlon\Vocathlon\obj\Debug\netcoreapp3.1\Vocathlon.Properties.Resources.resources
