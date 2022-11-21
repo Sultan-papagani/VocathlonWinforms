@@ -1,3 +1,3 @@
 # VocathlonWinforms
-Vocathlon için .NET Winforms ile "demo" uygulaması
+Vocathlon için .NET Winforms ile "demo" uygulaması,
 interaktif değildir.
